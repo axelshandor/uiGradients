@@ -4,6 +4,10 @@
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
     },
     {
+        "name": "Traffic Light",
+        "colors": ["#D31D0D", "#06785E"]
+    }, 
+    {
         "name": "Farhan",
         "colors": ["#9400D3", "#4B0082"]
     }, 
